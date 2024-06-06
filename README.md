@@ -50,7 +50,7 @@ $ sudo apt install build-essential gcc make perl dkms git gcc-riscv64-unknown-el
 具体使用请参考具体子项目下的 Makefile 文件。
 
 
-# 4. 参考文献
+# 4. 参考资料
 
 - Rvos（主要）: <https://gitee.com/unicornx/riscv-operating-system-mooc>
 - Xv6, a simple Unix-like teaching operating system：<https://pdos.csail.mit.edu/6.828/2020/xv6.html>
